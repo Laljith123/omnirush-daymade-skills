@@ -1,0 +1,15 @@
+{
+    "name":  "daymade-skills-all",
+    "version":  "1.0.0",
+    "description":  "Bundled skills from daymade/claude-code-skills for OmniRush. Includes 116 SKILL.md-based skills.",
+    "author":  {
+                   "name":  "daymade"
+               },
+    "repository":  "https://github.com/daymade/claude-code-skills",
+    "license":  "MIT",
+    "keywords":  [
+                     "claude-code",
+                     "skills",
+                     "omnirush"
+                 ]
+}
